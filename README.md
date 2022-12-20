@@ -14,8 +14,7 @@
 
 **Programming Languages**
 
-<img title="Python" alt="Python" width="40px" src="https://img.icons8.com/color/48/000000/python--v1.png" />|<img alt="C" title="Csharp" width="40px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png">|<img title="R" alt="R" width="40px" src="https://img.icons8.com/external-becris-flat-becris/64/000000/external-r-data-science-becris-flat-becris.png">|<img alt="HTML5" title="HTML5" width="40px" src="https://icones8.fr/icon/20909/html-5">|<img alt="CSS3" title="CSS3" width="40px" src="https://icones8.fr/icon/7gdY5qNXaKC0/css3">|<img alt="Java" title="Java" width="40px" src="![image](https://user-images.githubusercontent.com/119109213/208754937-12c1472a-697b-4383-85f4-f11f751b2954.png)
-">|<img alt="Javascript" title="Javascrip" width="40px" src="https://icones8.fr/icon/108784/javascript">|--|
+<img title="Python" alt="Python" width="40px" src="https://img.icons8.com/color/48/000000/python--v1.png" />|<img alt="C" title="Csharp" width="40px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png">|<img title="R" alt="R" width="40px" src="https://img.icons8.com/external-becris-flat-becris/64/000000/external-r-data-science-becris-flat-becris.png">|--||--|
 
 **Database Management System**
 
@@ -30,7 +29,7 @@ src="https://img.icons8.com/fluency/48/000000/microsoft-office-2019.png">
 
 ## 📊 My Github Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brice789&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github.com/Mrneyestani/Mrneyestani/blob/d31a32850381c86baa8b640012cb1ff306414db7/README.md)
 
 ## 📫 Feel free to contact me, I'll be glad to talk with you !
 
