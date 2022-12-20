@@ -14,7 +14,8 @@
 
 **Programming Languages**
 
-<img title="Python" alt="Python" width="40px" src="https://img.icons8.com/color/48/000000/python--v1.png" />|<img alt="C" title="Csharp" width="40px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png">|<img title="R" alt="R" width="40px" src="https://img.icons8.com/external-becris-flat-becris/64/000000/external-r-data-science-becris-flat-becris.png">|<img alt="HTML5" title="HTML5" width="40px" src="https://icones8.fr/icon/20909/html-5">|<img alt="CSS3" title="CSS3" width="40px" src="https://icones8.fr/icon/7gdY5qNXaKC0/css3">|<img alt="Java" title="Java" width="40px" src="https://icones8.fr/icon/Pd2x9GWu9ovX/logo-java-coffee-cup">|<img alt="Javascript" title="Javascrip" width="40px" src="https://icones8.fr/icon/108784/javascript">|--|
+<img title="Python" alt="Python" width="40px" src="https://img.icons8.com/color/48/000000/python--v1.png" />|<img alt="C" title="Csharp" width="40px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png">|<img title="R" alt="R" width="40px" src="https://img.icons8.com/external-becris-flat-becris/64/000000/external-r-data-science-becris-flat-becris.png">|<img alt="HTML5" title="HTML5" width="40px" src="https://icones8.fr/icon/20909/html-5">|<img alt="CSS3" title="CSS3" width="40px" src="https://icones8.fr/icon/7gdY5qNXaKC0/css3">|<img alt="Java" title="Java" width="40px" src="![image](https://user-images.githubusercontent.com/119109213/208754937-12c1472a-697b-4383-85f4-f11f751b2954.png)
+">|<img alt="Javascript" title="Javascrip" width="40px" src="https://icones8.fr/icon/108784/javascript">|--|
 
 **Database Management System**
 
