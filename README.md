@@ -1,16 +1,16 @@
-- 👋 Hi, I’m 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m Reza
+- 👀 I’m interested in full stack web development
+- 🌱 I’m currently learning informatique
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 
-- 🌱 I'm currently studying Cybersécurity and web devellopement
+- 🌱 I'm currently studying web devellopement
 - 💻 I'll post regularly some of my projects 
 - 👁️‍🗨️ You can reach me on Linkedin
 
 
-## 🚀 Languages and Tools:
+## 🚀 Languages and Tools: French, English, Persian and Arabic
 
 **Programming Languages**
 
@@ -26,7 +26,7 @@
 
 <img title="Colab" alt="Colab" width="40px" src="https://colab.research.google.com/img/colab_favicon_256px.png">|<img title="Jupyter" alt="jupyter" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png">|<img title="spyder" alt="spyder" width="40px" src="https://img.icons8.com/fluency/48/000000/spyder-ide.png">|<img title="Anaconda" alt="anaconda" width="40px" src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png">|<img title="Visual-Studio" alt="Visual-Studio" width="40px" src="https://img.icons8.com/fluency/48/000000/visual-studio-2019.png">|<img title="Rstudio" alt="rstudio" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat.svg/1280px-RStudio_logo_flat.svg.png">|<img title="MySQL" alt="mysql" width="40px" src="https://img.icons8.com/color/48/000000/mysql-logo.png">|<img title="Terminal" alt="terminal" width="40px" 
 src="https://img.icons8.com/fluency/48/000000/microsoft-office-2019.png">
-|--|--|--|--|--|--|--|--|--|
+
 
 ## 📊 My Github Stats
 
@@ -36,7 +36,7 @@ src="https://img.icons8.com/fluency/48/000000/microsoft-office-2019.png">
 
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/kireche-brice"><img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/mrneyestani"><img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png"/></a>
 
 </p>
 <!--
